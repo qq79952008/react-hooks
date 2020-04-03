@@ -1,0 +1,9 @@
+.car {
+	width: 400px;
+}
+
+.item-card {
+	display: flex;
+	width: 100%;
+	margin-bottom: 24px;
+}
